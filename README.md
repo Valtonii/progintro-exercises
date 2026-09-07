@@ -6,5 +6,5 @@ Useful links:
 - [Best Irelia in Europe?](https://u.gg/lol/profile/eun1/abst7act-eune/overview)
 
 ## Formatting Examples:
-1. *Italic* text.
-2. **Bold** Text.
+1. *Italic* Tekst.
+2. **Bold** Tekst.
